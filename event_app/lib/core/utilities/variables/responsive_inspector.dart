@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+///
+/// [ResponsiveInspector.]
+///
+/// [@author	Unknown]
+/// [ @since	v0.0.1 ]
+/// [@version	v1.0.0	Sunday, December 17th, 2023]
+/// [@global]
+///
+class ResponsiveInspector {
+  
+  static bool isMobile(BuildContext context) =>
+    MediaQuery.of(context).size.width < 650;
+
+  static bool isTablet(BuildContext context) =>
+    MediaQuery.of(context).size.width < 1100 &&
+    MediaQuery.of(context).size.width >= 650;
+
+  static bool isDesktop(BuildContext context) =>
+    MediaQuery.of(context).size.width >= 500;
+}
