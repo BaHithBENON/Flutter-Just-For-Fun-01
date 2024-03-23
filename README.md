@@ -5,7 +5,7 @@
 
 **Application Name:** Event App
 
-**To clone the git project:** [Flutter Just For Fun Repository](https://github.com/BaHithBENON/Flutter-Just-For-Fun-01.git)
+**To clone the git project:** [Flutter Just For Fun 01 Repository](https://github.com/BaHithBENON/Flutter-Just-For-Fun-01.git)
 
 **Inspiration Design:** [Event App Concept](https://dribbble.com/shots/15391237-Event-App-Concept?utm_source=Clipboard_Shot&utm_campaign=risangkuncoro&utm_content=Event%20App%20Concept&utm_medium=Social_Share)
 
@@ -24,7 +24,7 @@
 
 **Nom de l'application :** Event App
 
-**Pour cloner le projet git :** [Flutter Just For Fun Repository](https://github.com/BaHithBENON/Flutter-Just-For-Fun-01.git)
+**Pour cloner le projet git :** [Flutter Just For Fun 01 Repository](https://github.com/BaHithBENON/Flutter-Just-For-Fun-01.git)
 
 **Design d'inspiration :** [Concept de l'application d'événement](https://dribbble.com/shots/15391237-Event-App-Concept?utm_source=Clipboard_Shot&utm_campaign=risangkuncoro&utm_content=Event%20App%20Concept&utm_medium=Social_Share)
 
